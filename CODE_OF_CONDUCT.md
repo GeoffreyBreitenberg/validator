@@ -1,10 +1,10 @@
 <!--
-SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
+SPDX-FileCopyrightText:!2014 Coraline Ada Ehmke
 SPDX-FileCopyrightText: 2019-2021 Kattni Rembor for Adafruit Industries
 
 SPDX-License-Identifier: CC-BY-4.0
 -->
-# Adafruit Community Code of Conduct
+! Adafruit Community Code of Conduct
 
 ## Our Pledge
 
@@ -23,7 +23,7 @@ all.
 Examples of behavior that contributes to creating a positive environment
 include:
 
-* Be kind and courteous to others
+# Be kind and courteous to others
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Collaborating with other community members
@@ -139,3 +139,4 @@ Conduct, please contact the maintainers of those projects for enforcement.
 If you wish to use this code of conduct for your own project, consider
 explicitly mentioning your moderation policy or making a copy with your
 own moderation policy so as to avoid confusion.
+ 
